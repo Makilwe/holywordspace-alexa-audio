@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>HolyWordSpace</title>
+    <link>https://holywordspace.org</link>
+    <description>A quiet Christian library to read, pray, and grow close to our Lord Jesus Christ. Daily verses and devotionals</description>
+    <language>en-us</language>
+    <item>
+      <title>Be Still, and Know That I Am God | HolyWordSpace</title>
+      <description>Be still, and know that I am God. — Psalm 46:10. A quiet prayer song from HolyWordSpace.</description>
+      <link>https://holywordspace.org</link>
+      <guid>https://makilwe.github.io/holywordspace-alexa-audio/be-still-know-that-i-am-god-song.mp3</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://makilwe.github.io/holywordspace-alexa-audio/be-still-know-that-i-am-god-song.mp3" length="1991565" type="audio/mpeg" />
+    </item>
+    <item>
+      <title>Holy Spirit, Come — Lord, I Need You Every Day | HolyWordSpace</title>
+      <description>Holy Spirit, come and take control here in this place, in everything, and everywhere. Lord, I need You, oh, I need You every day. A quiet prayer from HolyWordSpace.</description>
+      <link>https://holywordspace.org</link>
+      <guid>https://makilwe.github.io/holywordspace-alexa-audio/holy-spirit-come-song-fixed.mp3</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://makilwe.github.io/holywordspace-alexa-audio/holy-spirit-come-song-fixed.mp3" length="1628621" type="audio/mpeg" />
+    </item>
+  </channel>
+</rss>
